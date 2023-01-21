@@ -1,5 +1,7 @@
 ## weather_forecasterr_bot
 
+### ⚠️ This code is not deployed, Bot is not online as for now 
+
 ### This bot is available on [telegaram](https://t.me/weather_forecasterr_bot)
 
 ### In case the link is not working search this on telegram: @weather_forecasterr_bot
