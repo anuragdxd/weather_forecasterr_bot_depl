@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "26e1733cea604488a77134653231301"
+API_KEY = "YOUR API KEY HERE"
 
 def weather_info(city):
     url = f"http://api.weatherapi.com/v1/forecast.json?key={API_KEY}&q={city}&days=1&aqi=yes&alerts=no"
