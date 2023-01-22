@@ -1,7 +1,7 @@
 import telebot
 from app import weather_info
 
-TOKEN = "BOT_TOKEN_HERE"
+TOKEN = "5941632780:AAFTDrM3q09NqfAorfaAKYgEGFeROuXJe_4"
 
 bot = telebot.TeleBot(TOKEN)
 
