@@ -1,5 +1,5 @@
 import telebot
-from app import weather_info
+from main import weather_info
 
 TOKEN = "5941632780:AAFTDrM3q09NqfAorfaAKYgEGFeROuXJe_4"
 
