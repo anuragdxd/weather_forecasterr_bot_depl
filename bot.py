@@ -1,7 +1,7 @@
 import telebot
 from main import weather_info
 
-TOKEN = "5941632780:AAFTDrM3q09NqfAorfaAKYgEGFeROuXJe_4"
+TOKEN = "6120052653:AAEBRxDCMhPF2eP9LnnNzpGkPB1fcLw3SXE"
 
 bot = telebot.TeleBot(TOKEN)
 
